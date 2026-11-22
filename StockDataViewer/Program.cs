@@ -1,3 +1,6 @@
+// AI disclosure: I have used Claude (Anthropic) and OpenAI Codex in creating this project.
+// Peak and valley logic is in aSmartCandlestick; file reading and filtering are in CandlestickUtilities.
+
 namespace StockDataViewer
 {
     internal static class Program

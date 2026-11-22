@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p8vLvDxYi0g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zaida\\OneDrive\\Desktop\\Zaid_Project2_SourceDONE\\WindowsStockAnalyzer\\StockDataViewer\\StockDataViewer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zaida\\.nuget\\packages\\winforms.datavisualization\\1.10.2\\winforms.datavisualization.1.10.2.nupkg.sha512"
+  ],
+  "logs": []
+}
